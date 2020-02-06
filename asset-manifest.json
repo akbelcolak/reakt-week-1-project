@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reakt-week-1-project/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reakt-week-1-project/static/js/main.eb6ca5dc.chunk.js",
+    "main.js.map": "/reakt-week-1-project/static/js/main.eb6ca5dc.chunk.js.map",
+    "runtime-main.js": "/reakt-week-1-project/static/js/runtime-main.a96ebb92.js",
+    "runtime-main.js.map": "/reakt-week-1-project/static/js/runtime-main.a96ebb92.js.map",
+    "static/js/2.0697c5cc.chunk.js": "/reakt-week-1-project/static/js/2.0697c5cc.chunk.js",
+    "static/js/2.0697c5cc.chunk.js.map": "/reakt-week-1-project/static/js/2.0697c5cc.chunk.js.map",
+    "index.html": "/reakt-week-1-project/index.html",
+    "precache-manifest.7a1b826c8279059b2b018bcc57b3cf67.js": "/reakt-week-1-project/precache-manifest.7a1b826c8279059b2b018bcc57b3cf67.js",
+    "service-worker.js": "/reakt-week-1-project/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reakt-week-1-project/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0697c5cc.chunk.js.LICENSE.txt": "/reakt-week-1-project/static/js/2.0697c5cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96ebb92.js",
+    "static/js/2.0697c5cc.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.eb6ca5dc.chunk.js"
+  ]
+}
