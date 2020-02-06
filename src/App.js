@@ -26,7 +26,7 @@ class App extends React.Component {
 
     // if city === true && country === true then render the code
     if (city && country) {
-      console.log(data);
+      //console.log(data);
 
       this.setState({
         temperature: data.main.temp,
